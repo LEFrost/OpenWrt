@@ -42,7 +42,7 @@ fi
 rm -Rf openwrt Actions-OpenWrt
 git clone https://github.com/openwrt/openwrt
 git clone https://github.com/LEFrost/OpenWrt
-cp -Rf Actions-OpenWrt/* openwrt/
+cp -Rf OpenWrt/* openwrt/
 cd openwrt
 echo "
 
